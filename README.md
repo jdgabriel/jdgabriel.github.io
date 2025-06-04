@@ -1,27 +1,26 @@
 # Gabriel Duarte - Software Developer Backend
 
-📞 31 9 9899-0882 | 📧 [jds.gabrielduarte@gmail.com](mailto:jds.gabrielduarte@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jdsgabriel/) | 📄 [GitHub](https://github.com/jdgabriel)  
+[31 9 9899-0882](https://wa.me/5531998990882) | [jds.gabrielduarte@gmail.com](mailto:jds.gabrielduarte@gmail.com)  
+[https://www.linkedin.com/in/jdsgabriel/](https://www.linkedin.com/in/jdsgabriel) | [https://github.com/jdgabriel](https://github.com/jdgabriel) 
 
 ---
 
 ## RESUMO  
-Desenvolvedor de Software com mais de 5 anos de experiência em backend, especializado em  Node.js, TypeScript e microsserviços. 
-Utilizando frameworks como NestJS, Express e  GraphQL.  
+Desenvolvedor de software com ampla experiência em Node.js, TypeScript e arquitetura de microsserviços. Atuei extensivamente em projetos envolvendo automação, integração de sistemas e gerenciamento de configurações. Experiência prática em frameworks como NestJS, Express e GraphQL, e em ambientes de nuvem como AWS e Azure, além de implementações de CI/CD (Github Actions). Tenho experiência em liderar melhorias nos processos, integrar sistemas e realizar da entrega contínua, sempre focando em tornar o software mais escalável, eficiente e de qualidade.
 
 ---
 
 ## EXPERIÊNCIA  
 
 **Software Developer Backend - GlobalSys**  
-_Ago/2024 - Maio/2025_
+_Agosto 2024 - Maio 2025_
 
 - Mantive sistema de pós-venda para e-commerce e lojas físicas, atendendo 2k+ vendedores por dia.  
 - Arquitetura e desenvolvimento de app para centralizar comunicações, melhorando integração de webhooks e logs entre microsserviços.  
 - Criação de arquitetura de sistema de gestão de configurações, reduzindo a complexidade.  
 
 **Software Developer Full Stack - PSO Engenharia Elétrica**  
-_Mar/2021 - Ago/2024_  
+_Março 2021 - Agosto 2024_  
 
 - Desenvolvi software para automatizar relatórios NR10, acelerando a entrega ao cliente.  
 - Liderei arquitetura e melhorias no sistema de monitoramento remoto (IoT), aumentando a estabilidade e eficiência.  
@@ -29,7 +28,7 @@ _Mar/2021 - Ago/2024_
 - Implantei pipeline de CI/CD, aumentando em 80% a frequência de entregas de novas funcionalidades.  
 
 **Software Developer Full Stack - Trocalike.com.br**  
-_Abr/2019 - Jan/2021_
+_Abril 2019 - Janeiro 2021_
 
 - Implementei infraestrutura na AWS com EC2, S3 e CloudFront, garantindo escalabilidade e alta disponibilidade.  
 - Desenvolvi pipeline de CI/CD, otimizando a entrega contínua para AWS S3.  
@@ -45,6 +44,5 @@ Node.js, TypeScript, JavaScript, NestJS, Express, Fastify, PostgreSQL, MySQL, Gr
 
 ### Conhecimentos
 [![My Skills](https://skillicons.dev/icons?i=mongodb,aws,azure,kubernetes,rabbitmq,react,nextjs,tailwind,html,css)](https://skillicons.dev)<br/>
-MongoDB, AWS (EC2, S3, CloudFront), Azure, Kubernetes, RabbitMQ.<br/>
-React, NextJS, Tailwind, HTML e CSS
+MongoDB, AWS (EC2, S3, CloudFront), Azure, Kubernetes, RabbitMQ, React, NextJS, Tailwind, HTML e CSS
 
