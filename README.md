@@ -1,4 +1,5 @@
-# Gabriel Duarte - Software Developer Backend
+# Gabriel Januario Duarte de Souza
+## Software Developer Backend
 
 [31 9 9899-0882](https://wa.me/5531998990882) | [jds.gabrielduarte@gmail.com](mailto:jds.gabrielduarte@gmail.com)  
 [https://www.linkedin.com/in/jdsgabriel/](https://www.linkedin.com/in/jdsgabriel) | [https://github.com/jdgabriel](https://github.com/jdgabriel) 
@@ -8,6 +9,14 @@
 ## RESUMO  
 Desenvolvedor de software com ampla experiência em Node.js, TypeScript e arquitetura de microsserviços. Atuei extensivamente em projetos envolvendo automação, integração de sistemas e gerenciamento de configurações. Experiência prática em frameworks como NestJS, Express e GraphQL, e em ambientes de nuvem como AWS e Azure, além de implementações de CI/CD (Github Actions). Tenho experiência em liderar melhorias nos processos, integrar sistemas e realizar da entrega contínua, sempre focando em tornar o software mais escalável, eficiente e de qualidade.
 
+---
+
+## HABILIDADES  
+- **Linguagens**: TypeScript | JavaScript
+- **Backend Frameworks & Libs**: Node.js | NestJS | Express | Fastify | GraphQL
+- **Banco de dados**: PostgreSQL | MySQL | MongoDB
+- **Arquitetura & Infra**: Modularização | Microsserviços | Webhooks | RabbitMQ
+- **Cloud & DevOps**: AWS (EC2 - S3 - CloudFront) | Azure | Docker | GitHub Actions (CI/CD)
 ---
 
 ## EXPERIÊNCIA  
@@ -35,14 +44,5 @@ _Abril 2019 - Janeiro 2021_
 - Arquitetei e mantive o banco de dados MongoDB, organizando dados com eficiência e consistência.  
 - Desenvolvimento fullstack do sistema, integrado com gateway de pagamento para automatizar transações.  
 
----
 
-## HABILIDADES  
-### Principais
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,postgresql,mysql,graphql,aws,azure,docker,github)](https://skillicons.dev)<br/>
-Node.js, TypeScript, JavaScript, NestJS, Express, Fastify, PostgreSQL, MySQL, GraphQL, Docker, Kubernetes, GitHub Actions (CI/CD). 
-
-### Conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=mongodb,aws,azure,kubernetes,rabbitmq,react,nextjs,tailwind,html,css)](https://skillicons.dev)<br/>
-MongoDB, AWS (EC2, S3, CloudFront), Azure, Kubernetes, RabbitMQ, React, NextJS, Tailwind, HTML e CSS
 
