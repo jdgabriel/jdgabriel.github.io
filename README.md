@@ -7,7 +7,7 @@
 ---
 
 ## RESUMO  
-Desenvolvedor de software com ampla experiência em Node.js, TypeScript e arquitetura de microsserviços. Atuei extensivamente em projetos envolvendo automação, integração de sistemas e gerenciamento de configurações. Experiência prática em frameworks como NestJS, Express e GraphQL, e em ambientes de nuvem como AWS e Azure, além de implementações de CI/CD (Github Actions). Tenho experiência em liderar melhorias nos processos, integrar sistemas e realizar da entrega contínua, sempre focando em tornar o software mais escalável, eficiente e de qualidade.
+Desenvolvedor de software com experiência em Node.js, TypeScript e microsserviços. Atuação em automação, integração de sistemas e gestão de configurações. Domínio de NestJS, Express, GraphQL, AWS, Azure e CI/CD com GitHub Actions. Foco em escalabilidade, eficiência e qualidade, com entregas contínuas e melhorias de processo.
 
 ---
 
