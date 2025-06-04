@@ -1,35 +1,44 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Markdown from 'react-markdown'
+import readme from '../README.md?raw'
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div className="min-h-screen flex items-center justify-center bg-zinc-800">
+      <div className="bg-white shadow-lg px-8 py-8 rounded-md w-[60rem] h-auto max-w-full mx-auto my-8 flex flex-col">
+      <Markdown
+      components={{
+        h1: (props) => (
+          <h1 className="text-3xl font-bold mt-6 mb-6 m-auto" {...props} />
+        ),
+        h2: (props) => (
+          <h2 className="text-xl font-semibold mt-5 mb-3" {...props} />
+        ),
+        h3: (props) => (
+          <h3 className="text-xl font-medium mt-4 mb-2" {...props} />
+        ),
+        p: (props) => (
+          <p className="mb-4 text-base leading-relaxed" {...props} />
+        ),
+        ul: (props) => (
+          <ul className="list-disc list-inside mb-4" {...props} />
+        ),
+        ol: (props) => (
+          <ol className="list-decimal list-inside mb-4" {...props} />
+        ),
+        li: (props) => (
+          <li className="ml-4 mb-1" {...props} />
+        ),
+        a: (props) => (
+          <a className="text-blue-600 underline hover:text-blue-800" target="_blank" rel="noopener noreferrer" {...props} />
+        ),
+        hr: (props) => (
+          <hr className="border-zinc-300 rounded-full" {...props} />
+        ),
+      }}
+        >
+      {readme.replace(/<br\s*\/?>/gi, '\n')}
+      </Markdown>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </div>
   )
 }
-
-export default App
