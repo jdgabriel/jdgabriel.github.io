@@ -21,7 +21,7 @@ Desenvolvedor de software com experiência em Node.js, TypeScript e microsservi�
 
 ## EXPERIÊNCIA  
 
-**Software Developer Backend - GlobalSys**  
+**Software Developer Backend - GlobalSys Soluções em TI**  
 _Agosto 2024 - Maio 2025_
 
 - Mantive sistema de pós-venda para e-commerce e lojas físicas, atendendo 2k+ vendedores por dia.  
