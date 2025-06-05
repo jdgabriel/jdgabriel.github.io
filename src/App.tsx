@@ -4,7 +4,7 @@ import readme from '../README.md?raw'
 export default function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-zinc-800">
-      <div className="bg-white shadow-lg px-8 pt-4 pb-8 rounded-md w-[60rem] h-auto max-w-full mx-auto my-8 flex flex-col">
+      <div className="bg-white shadow-lg p-16 pt-4 rounded-md w-[60rem] h-auto max-w-full mx-auto my-8 flex flex-col">
       <Markdown
       components={{
         h1: (props) => (
