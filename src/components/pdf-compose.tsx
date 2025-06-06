@@ -115,7 +115,7 @@ export function DownloadButton(){
   return (
       <PDFDownloadLink
         document={<PDFCompose />}
-        fileName="Gabriel Duarte - Software Developer Backend.pdf"
+        fileName="Gabriel Duarte - Backend Software Engineer.pdf"
         className="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 hover:cursor-pointer text-white no-underline rounded-lg font-sans font-medium"
       >
        😁 Baixe meu currículo agora!
