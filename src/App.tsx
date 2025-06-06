@@ -17,7 +17,7 @@ export default function App() {
         {showConfetti && <Confetti />}
         <div className="bg-white shadow-lg p-16 pt-4 rounded-md w-[60rem] h-auto max-w-full mx-auto my-8 flex flex-col relative">
           {/* Botão flutuante no canto superior direito da div centralizada */}
-          <div className="absolute -top-4 right-4 z-50">
+          <div className="absolute -top-2 right-4 z-50">
             <div onClick={handleDownload}>
             <DownloadButton />              
             </div>
