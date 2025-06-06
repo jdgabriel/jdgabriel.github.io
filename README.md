@@ -1,5 +1,5 @@
 # Gabriel Januario Duarte de Souza
-## Software Developer Backend
+## Backend Software Engineer
 
 [31 9 9899-0882](https://wa.me/5531998990882) | [jds.gabrielduarte@gmail.com](mailto:jds.gabrielduarte@gmail.com)  
 [https://www.linkedin.com/in/jdsgabriel/](https://www.linkedin.com/in/jdsgabriel) | [https://github.com/jdgabriel](https://github.com/jdgabriel) 
@@ -21,14 +21,14 @@ Desenvolvedor de software com experiência em Node.js, TypeScript e microsservi�
 
 ## EXPERIÊNCIA  
 
-**Software Developer Backend - GlobalSys Soluções em TI**  
+**Backend Software Engineer - GlobalSys Soluções em TI**  
 _Agosto 2024 - Maio 2025_
 
 - Mantive sistema de pós-venda para e-commerce e lojas físicas, atendendo 2k+ vendedores por dia.  
 - Arquitetura e desenvolvimento de app para centralizar comunicações, melhorando integração de webhooks e logs entre microsserviços.  
 - Criação de arquitetura de sistema de gestão de configurações, reduzindo a complexidade.  
 
-**Software Developer Full Stack - PSO Engenharia Elétrica**  
+**Full Stack Software Engineer - PSO Engenharia Elétrica**  
 _Março 2021 - Agosto 2024_  
 
 - Desenvolvi software para automatizar relatórios NR10, acelerando a entrega ao cliente.  
@@ -36,7 +36,7 @@ _Março 2021 - Agosto 2024_
 - Criei sistema de gestão de tarefas com notificações, integrando com Google Agenda para alertas automáticos.  
 - Implantei pipeline de CI/CD, aumentando em 80% a frequência de entregas de novas funcionalidades.  
 
-**Software Developer Full Stack - Trocalike.com.br**  
+**Full Stack Software Engineer - Trocalike.com.br**  
 _Abril 2019 - Janeiro 2021_
 
 - Implementei infraestrutura na AWS com EC2, S3 e CloudFront, garantindo escalabilidade e alta disponibilidade.  

@@ -22,7 +22,7 @@ export function PDFCompose() {
         </View>
 
         <View style={tw("mb-6")}>
-          <Text style={tw('font-semibold text-xl mb-1')}>Software Developer Backend</Text>
+          <Text style={tw('font-semibold text-xl mb-1')}>Backend Software Engineer</Text>
           <View style={tw('flex flex-row gap-2')}>
             <Link style={tw('text-blue-600 underline')} href="https://wa.me/5531998990882">
               31 9 9899-0882
